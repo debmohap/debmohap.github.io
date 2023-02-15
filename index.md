@@ -2,17 +2,16 @@
 layout: home
 ---
 
-# Hello, I'm [Your Name]
+# Hello, I'm Debajyoti Mohapatra call me - Deb 🙂
 
-I'm a [Job Title] with experience in [Skills or Expertise]. 
-
+I'm a enthusiastic Automation Test engineer with experience in 6+ years. 
 ## About Me
 
 [Write a brief summary about yourself, your background, and your career goals.]
 
 ## Work Experience
 
-### [Company Name], [Job Title]
+### [Happiest Minds], [Moudle Lead]
 
 [Description of your responsibilities and accomplishments in this role.]
 
